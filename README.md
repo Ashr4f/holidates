@@ -5,7 +5,7 @@ This package allows you to show the public holidays of a given country
 
 Available commands are:
 ```
-*holidates*
+holidates
 ```  
 
 Shows a cool menu guide :wink:
