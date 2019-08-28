@@ -1,6 +1,6 @@
 # Holdiates (a simple Node CLI)
 
-Welcome to this simple Node package, use `npm i h0lidates` to install it.  
+Welcome to this simple Node package, use `sudo npm i -g h0lidates` to install it, or `npx h0lidates`  
 This package allows you to show the public holidays of a given country  
 
 Available commands are:
