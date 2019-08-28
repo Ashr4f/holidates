@@ -1,6 +1,6 @@
 {
   "name": "h0lidates",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Shows holidays by entering the country name and year",
   "main": "index.js",
   "bin": {
